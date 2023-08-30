@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1693419991 source:c:\users\edonaire\desktop\unlam 2023\2do cuatri\paradigmas de programacion\guia ejercicios\diagnostico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"functions.h"
+
+1693420010 source:c:\users\edonaire\desktop\unlam 2023\2do cuatri\paradigmas de programacion\guia ejercicios\diagnostico\functions.c
+	"functions.h"
+
+1693419953 c:\users\edonaire\desktop\unlam 2023\2do cuatri\paradigmas de programacion\guia ejercicios\diagnostico\functions.h
+	"utilitarias.h"
+
+1693419960 c:\users\edonaire\desktop\unlam 2023\2do cuatri\paradigmas de programacion\guia ejercicios\diagnostico\utilitarias.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1693419908 source:c:\users\edonaire\desktop\unlam 2023\2do cuatri\paradigmas de programacion\guia ejercicios\diagnostico\utilitarias.c
+	"utilitarias.h"
+
